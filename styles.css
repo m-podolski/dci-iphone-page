@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@500&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: no-repeat url("assets/bg_001.jpg");
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: black;
+  font-family: "Fira Sans", sans-serif;
+  color: white;
+}

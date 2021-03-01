@@ -1,14 +1,11 @@
-# [DCI Assignment] gallery-wall-app
+# [DCI Assignment] iPhone Landing Page
 
 This project is a demonstration of basic HTML and CSS techniques.
 
-**Task: Create a layout with responsively positioned images with a hover effect**
+## Task
+**Create a landing page for the new iPhone**
 
-**Topics**
-- Basic HTML Syntax and Tags
-- Box Model
-- Positioning
-- Transforms
-- Filters
+## Topics
+-
 
 ![Screenshot](screenshot.png)
