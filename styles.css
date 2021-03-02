@@ -62,20 +62,22 @@ nav {
 }
 
 .phones > * {
-  width: 15vw;
+  position: relative;
+  width: 20vw;
 }
 
 .phone-first {
-  position: relative;
   z-index: 2;
-  top: -450px;
-  left: 50px;
+  /* top: -600px;
+  left: 100px; */
+  top: -40vw;
+  left: 10vw;
 }
 
 .phone-second {
-  position: relative;
   z-index: 3;
   top: 50px;
+  top: 5vw;
 }
 
 p {
