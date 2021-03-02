@@ -68,17 +68,14 @@ nav {
 .phone-first {
   position: relative;
   z-index: 2;
-  margin-right: -4rem;
-  top: 1vw;
-  /* left: 2vw; */
+  top: -450px;
+  left: 50px;
 }
 
 .phone-second {
   position: relative;
   z-index: 3;
-  margin-right: -2rem;
-  top: 4vw;
-  /* left: 3vw; */
+  top: 50px;
 }
 
 p {
